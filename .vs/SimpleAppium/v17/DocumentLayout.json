@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\OneDrive\\Desktop\\SimpleAppium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B24A2F0B-6D70-4B3C-AE3F-3AD715632DDA}|SimpleAppium.csproj|c:\\users\\lenovo\\onedrive\\desktop\\simpleappium\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24A2F0B-6D70-4B3C-AE3F-3AD715632DDA}|SimpleAppium.csproj|solutionrelative:practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24A2F0B-6D70-4B3C-AE3F-3AD715632DDA}|SimpleAppium.csproj|c:\\users\\lenovo\\onedrive\\desktop\\simpleappium\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24A2F0B-6D70-4B3C-AE3F-3AD715632DDA}|SimpleAppium.csproj|solutionrelative:tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Practice.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\SimpleAppium\\Practice.cs",
+              "RelativeDocumentMoniker": "Practice.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\SimpleAppium\\Practice.cs",
+              "RelativeToolTip": "Practice.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAiwGQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:24:14.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\SimpleAppium\\Tests.cs",
+              "RelativeDocumentMoniker": "Tests.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\SimpleAppium\\Tests.cs",
+              "RelativeToolTip": "Tests.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:04:32.285Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
